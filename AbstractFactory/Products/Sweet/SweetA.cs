@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AbstractFactory.Products.Sweet
+{
+    class SweetA : ISweet
+    {
+        int price = 90;
+
+        public int GetPrice()
+        {
+            return price;
+        }
+    }
+}

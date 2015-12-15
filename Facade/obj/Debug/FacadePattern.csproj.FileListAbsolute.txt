@@ -1,0 +1,12 @@
+c:\users\валентина\documents\visual studio 2013\Projects\Facade\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache
+c:\users\валентина\documents\visual studio 2013\Projects\Facade\bin\Debug\Facade.exe.config
+c:\users\валентина\documents\visual studio 2013\Projects\Facade\bin\Debug\Facade.exe
+c:\users\валентина\documents\visual studio 2013\Projects\Facade\bin\Debug\Facade.pdb
+c:\users\валентина\documents\visual studio 2013\Projects\Facade\obj\Debug\Facade.exe
+c:\users\валентина\documents\visual studio 2013\Projects\Facade\obj\Debug\Facade.pdb
+C:\Users\Валентина\Documents\Visual Studio 2013\Projects\github\test\Facade\bin\Debug\Facade.exe.config
+C:\Users\Валентина\Documents\Visual Studio 2013\Projects\github\test\Facade\obj\Debug\Facade.exe
+C:\Users\Валентина\Documents\Visual Studio 2013\Projects\github\test\Facade\obj\Debug\Facade.pdb
+C:\Users\Валентина\Documents\Visual Studio 2013\Projects\github\test\Facade\bin\Debug\Facade.exe
+C:\Users\Валентина\Documents\Visual Studio 2013\Projects\github\test\Facade\bin\Debug\Facade.pdb
+C:\Users\Валентина\Documents\Visual Studio 2013\Projects\github\test\Facade\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache

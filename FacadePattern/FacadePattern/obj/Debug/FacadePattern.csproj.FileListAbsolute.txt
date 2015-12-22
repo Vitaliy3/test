@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\FacadePattern\FacadePattern\bin\Debug\FacadePattern.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\FacadePattern\FacadePattern\obj\Debug\FacadePattern.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\FacadePattern\FacadePattern\obj\Debug\FacadePattern.pdb

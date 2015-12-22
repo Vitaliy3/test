@@ -1,0 +1,4 @@
+C:\Users\1\Desktop\5 семестр\Теория автоматов\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Users\1\Desktop\5 семестр\Теория автоматов\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Users\1\Desktop\5 семестр\Теория автоматов\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\1\Desktop\5 семестр\Теория автоматов\Prototype\Prototype\obj\x86\Debug\Prototype.pdb

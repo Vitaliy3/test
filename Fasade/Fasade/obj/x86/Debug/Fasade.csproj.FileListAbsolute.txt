@@ -1,0 +1,4 @@
+C:\Users\1\Desktop\5 семестр\Теория автоматов\Fasade\Fasade\bin\Debug\Fasade.exe
+C:\Users\1\Desktop\5 семестр\Теория автоматов\Fasade\Fasade\bin\Debug\Fasade.pdb
+C:\Users\1\Desktop\5 семестр\Теория автоматов\Fasade\Fasade\obj\x86\Debug\Fasade.exe
+C:\Users\1\Desktop\5 семестр\Теория автоматов\Fasade\Fasade\obj\x86\Debug\Fasade.pdb

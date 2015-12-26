@@ -1,0 +1,5 @@
+D:\Users\Дмитрий\Desktop\10_BuilderSample\BuilderSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Дмитрий\Desktop\10_BuilderSample\BuilderSample\bin\Debug\BuilderSample.exe
+D:\Users\Дмитрий\Desktop\10_BuilderSample\BuilderSample\bin\Debug\BuilderSample.pdb
+D:\Users\Дмитрий\Desktop\10_BuilderSample\BuilderSample\obj\x86\Debug\BuilderSample.exe
+D:\Users\Дмитрий\Desktop\10_BuilderSample\BuilderSample\obj\x86\Debug\BuilderSample.pdb

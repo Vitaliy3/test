@@ -1,0 +1,5 @@
+D:\Users\Дмитрий\Desktop\06_AdapterSample\AdapterSample\bin\Debug\AdapterSample.exe
+D:\Users\Дмитрий\Desktop\06_AdapterSample\AdapterSample\bin\Debug\AdapterSample.pdb
+D:\Users\Дмитрий\Desktop\06_AdapterSample\AdapterSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Дмитрий\Desktop\06_AdapterSample\AdapterSample\obj\x86\Debug\AdapterSample.exe
+D:\Users\Дмитрий\Desktop\06_AdapterSample\AdapterSample\obj\x86\Debug\AdapterSample.pdb

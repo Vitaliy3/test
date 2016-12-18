@@ -1,0 +1,136 @@
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\ApplicationInsights.config
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\roslyn\csc.exe
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\roslyn\System.Collections.Immutable.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\roslyn\System.Reflection.Metadata.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\roslyn\vbc.exe
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\roslyn\VBCSCompiler.exe
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\roslyn\VBCSCompiler.exe.config
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\WeaponSuperStore.dll.config
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\WeaponSuperStore.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\WeaponSuperStore.pdb
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\EntityFramework.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\EntityFramework.SqlServer.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.Agent.Intercept.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.DependencyCollector.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.PerfCounterCollector.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.Web.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.WindowsServer.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.ApplicationInsights.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\EntityFramework.xml
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\EntityFramework.SqlServer.xml
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.DependencyCollector.xml
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.Web.xml
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.WindowsServer.xml
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.ApplicationInsights.xml
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\obj\Debug\WeaponSuperStore.dll
+d:\my documents\documents\visual studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\obj\Debug\WeaponSuperStore.pdb
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Antlr3.Runtime.dll
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.Web.Infrastructure.dll
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Newtonsoft.Json.dll
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\System.Web.Optimization.dll
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\WebGrease.dll
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Antlr3.Runtime.pdb
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Newtonsoft.Json.xml
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\System.Web.Optimization.xml
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.Owin.dll
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.Owin.Security.dll
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Owin.dll
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.Owin.xml
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.Owin.Security.xml
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\System.Web.Helpers.dll
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\System.Web.Mvc.dll
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\System.Web.Razor.dll
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\System.Web.WebPages.Deployment.dll
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\System.Web.WebPages.dll
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\System.Web.WebPages.Razor.dll
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\System.Web.Helpers.xml
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\System.Web.Mvc.xml
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\System.Web.Razor.xml
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\System.Web.WebPages.xml
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\System.Web.WebPages.Deployment.xml
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\bin\System.Web.WebPages.Razor.xml
+D:\My documents\Documents\Visual Studio 2015\Projects\WeaponSuperStore\WeaponSuperStore\obj\Debug\WeaponSuperStore.csprojResolveAssemblyReference.cache
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\ApplicationInsights.config
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\roslyn\csc.exe
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\roslyn\vbc.exe
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\WeaponSuperStore.dll.config
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\WeaponSuperStore.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\WeaponSuperStore.pdb
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Antlr3.Runtime.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\EntityFramework.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\EntityFramework.SqlServer.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.Web.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.Owin.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.Owin.Security.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Newtonsoft.Json.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Owin.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\System.Web.Helpers.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\System.Web.Mvc.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\System.Web.Optimization.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\System.Web.Razor.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\System.Web.WebPages.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\WebGrease.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Antlr3.Runtime.pdb
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\EntityFramework.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\EntityFramework.SqlServer.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.Web.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.Owin.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.Owin.Security.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\Newtonsoft.Json.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\System.Web.Helpers.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\System.Web.Mvc.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\System.Web.Optimization.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\System.Web.Razor.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\System.Web.WebPages.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\obj\Debug\WeaponSuperStore.csprojResolveAssemblyReference.cache
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\obj\Debug\WeaponSuperStore.dll
+C:\Users\PK\Downloads\WeaponSuperStore\WeaponSuperStore\obj\Debug\WeaponSuperStore.pdb
